@@ -230,3 +230,8 @@ Once all VMs are installed, configured, and can communicate, shut them down and 
 
 ---
 **Next Step:** [Lab 3: Essential Linux & Command Line Skills](./03-linux-cli-skills.md)
+
+
+Prepared by:
+Mr. Aminu Idris
+Bsc.Ed, CCNA, CompTIA Security+, CEH, OSCP, CISSP, MPCSEAN

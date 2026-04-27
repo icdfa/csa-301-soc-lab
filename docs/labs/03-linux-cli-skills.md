@@ -58,3 +58,8 @@ Write Bash scripts to automate the following:
 
 ---
 **Next Step:** [Lab 4: Essential Windows & PowerShell Skills](./04-windows-powershell-skills.md)
+
+
+Prepared by:
+Mr. Aminu Idris
+Bsc.Ed, CCNA, CompTIA Security+, CEH, OSCP, CISSP, MPCSEAN

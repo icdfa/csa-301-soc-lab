@@ -73,3 +73,8 @@ Write PowerShell scripts to automate the following security tasks:
 
 ---
 **End of Unit 1 Labs.**
+
+
+Prepared by:
+Mr. Aminu Idris
+Bsc.Ed, CCNA, CompTIA Security+, CEH, OSCP, CISSP, MPCSEAN

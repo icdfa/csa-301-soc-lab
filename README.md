@@ -2,11 +2,11 @@
 
 Welcome to the **CSA-301: SOC Fundamentals & Home Lab Setup** course repository. This repository is designed to guide students through the process of building a professional Security Operations Center (SOC) home lab from scratch.
 
-## 🚀 Course Overview
+## Course Overview
 
 In this course, you will learn the core concepts of Security Operations and gain hands-on experience by building your own virtualized SOC environment. This lab will serve as your primary platform for threat detection, incident response, and security monitoring exercises.
 
-## 🛠️ Lab Components
+## Lab Components
 
 The lab architecture consists of the following key components:
 
@@ -18,14 +18,14 @@ The lab architecture consists of the following key components:
 | **Attacker** | Kali Linux | Offensive Security Testing |
 | **Victim** | Windows 10 / Ubuntu | Target Systems for Monitoring |
 
-## 📂 Repository Structure
+## Repository Structure
 
 *   `docs/`: Detailed documentation and lab guides.
     *   `labs/`: Step-by-step instructions for each lab module.
 *   `diagrams/`: Network architecture and flow diagrams.
 *   `scripts/`: Automation scripts for lab setup and configuration.
 
-## 🏁 Getting Started
+## Getting Started
 
 To begin your journey, follow the step-by-step guides in the `docs/labs/` directory:
 
@@ -34,11 +34,15 @@ To begin your journey, follow the step-by-step guides in the `docs/labs/` direct
 3.  **[Lab 3: SIEM Installation](./docs/labs/03-splunk-setup.md)** - Deploying Splunk on Ubuntu Server.
 4.  **[Lab 4: Endpoint Integration](./docs/labs/04-endpoint-setup.md)** - Setting up Kali and Windows victim machines.
 
-## 🛡️ Safety Warning
+## Safety Warning
 
 > [!IMPORTANT]
 > All lab activities must be conducted within the isolated virtual network. Never run malware or perform offensive actions on your host machine or any network you do not have explicit permission to test.
 
-## 📜 License
+## License
+
+Prepared by:
+Mr. Aminu Idris
+Bsc.Ed, CCNA, CompTIA Security+, CEH, OSCP, CISSP, MPCSEAN
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

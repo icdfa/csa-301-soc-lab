@@ -44,3 +44,8 @@ Using the MITRE ATT&CK Navigator (available at [https://attack.mitre.org/navigat
 
 ---
 **Next Step:** [Lab 2: Building Your SOC Home Lab](./02-home-lab-setup.md)
+
+
+Prepared by:
+Mr. Aminu Idris
+Bsc.Ed, CCNA, CompTIA Security+, CEH, OSCP, CISSP, MPCSEAN
