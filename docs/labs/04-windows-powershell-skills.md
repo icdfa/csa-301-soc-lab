@@ -71,9 +71,16 @@ Write PowerShell scripts to automate the following security tasks:
 *   PowerShell scripts for automation and threat hunting.
 *   Understanding of Windows security events and their significance.
 
+## Reference Resources
+*   **Microsoft Sysmon Documentation:** [Sysmon Docs](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+*   **PowerShell Scripting Guide:** [Microsoft PowerShell Docs](https://learn.microsoft.com/en-us/powershell/scripting/overview)
+*   **Ultimate IT Professional’s Guide to Windows Event Forwarding:** [LogRhythm Guide](https://logrhythm.com/blog/windows-event-forwarding-guide/)
+
+## Submission Guidelines
+Submit your PowerShell scripts and screenshots of your Sysmon configuration and Event Viewer logs. Ensure all scripts are well-commented. Submit the full documentation via the portal at [https://icdfa.edu.ng](https://icdfa.edu.ng) for grading.
+
 ---
 **End of Unit 1 Labs.**
-
 
 Prepared by:
 Mr. Aminu Idris

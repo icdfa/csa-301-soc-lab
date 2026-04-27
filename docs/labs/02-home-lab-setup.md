@@ -228,9 +228,16 @@ Once all VMs are installed, configured, and can communicate, shut them down and 
 *   Documented lab architecture (network diagram).
 *   Operational Splunk SIEM instance.
 
+## Reference Resources
+*   **VirtualBox Troubleshooting:** [VirtualBox Forums](https://forums.virtualbox.org/)
+*   **pfSense Installation Guide:** [Netgate Docs](https://docs.netgate.com/pfsense/en/latest/install/index.html)
+*   **Splunk Installation for Linux:** [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/latest/Installation/InstallonLinux)
+
+## Submission Guidelines
+Document your entire setup process. Include screenshots of the pfSense dashboard, Splunk login page, and successful pings between all VMs. Attach your network diagram and submit the full documentation via the portal at [https://icdfa.edu.ng](https://icdfa.edu.ng) for grading.
+
 ---
 **Next Step:** [Lab 3: Essential Linux & Command Line Skills](./03-linux-cli-skills.md)
-
 
 Prepared by:
 Mr. Aminu Idris

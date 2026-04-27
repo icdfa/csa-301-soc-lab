@@ -42,9 +42,16 @@ Using the MITRE ATT&CK Navigator (available at [https://attack.mitre.org/navigat
 *   Documented analysis of a real-world attack (report from Activity 1).
 *   MITRE ATT&CK Navigator JSON file (from Activity 2).
 
+## Reference Resources
+*   **MITRE ATT&CK Framework:** [https://attack.mitre.org/](https://attack.mitre.org/)
+*   **Cyber Kill Chain:** [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+*   **BleepingComputer (Cyber News):** [https://www.bleepingcomputer.com/](https://www.bleepingcomputer.com/)
+
+## Submission Guidelines
+Upon completion, compile your report and JSON file into a single documentation package. Include screenshots of your ATT&CK Navigator layer. Submit the final documentation via the portal at [https://icdfa.edu.ng](https://icdfa.edu.ng) for grading.
+
 ---
 **Next Step:** [Lab 2: Building Your SOC Home Lab](./02-home-lab-setup.md)
-
 
 Prepared by:
 Mr. Aminu Idris

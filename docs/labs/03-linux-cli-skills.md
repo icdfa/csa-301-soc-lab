@@ -56,9 +56,16 @@ Write Bash scripts to automate the following:
 *   Bash scripts for log parsing and automation.
 *   Understanding of Linux security concepts.
 
+## Reference Resources
+*   **Linux Command Library:** [https://linuxcommandlibrary.com/](https://linuxcommandlibrary.com/)
+*   **Bash Scripting Guide:** [TLDP Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+*   **Regex101 (Regex Testing):** [https://regex101.com/](https://regex101.com/)
+
+## Submission Guidelines
+Submit your Bash scripts as separate files or within your documentation. Include screenshots of your scripts in action and the results of your log analysis exercises. Submit the full documentation via the portal at [https://icdfa.edu.ng](https://icdfa.edu.ng) for grading.
+
 ---
 **Next Step:** [Lab 4: Essential Windows & PowerShell Skills](./04-windows-powershell-skills.md)
-
 
 Prepared by:
 Mr. Aminu Idris

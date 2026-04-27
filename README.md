@@ -39,6 +39,25 @@ To begin your journey, follow the step-by-step guides in the `docs/labs/` direct
 > [!IMPORTANT]
 > All lab activities must be conducted within the isolated virtual network. Never run malware or perform offensive actions on your host machine or any network you do not have explicit permission to test.
 
+## Reference Resources & Support
+
+If you encounter issues during the lab setup, please refer to the following official documentation and community resources:
+
+*   **VirtualBox Documentation:** [https://www.virtualbox.org/wiki/Documentation](https://www.virtualbox.org/wiki/Documentation)
+*   **pfSense Documentation:** [https://docs.netgate.com/pfsense/en/latest/](https://docs.netgate.com/pfsense/en/latest/)
+*   **Splunk Documentation:** [https://docs.splunk.com/Documentation](https://docs.splunk.com/Documentation)
+*   **Ubuntu Server Guide:** [https://ubuntu.com/server/docs](https://ubuntu.com/server/docs)
+*   **MITRE ATT&CK Resources:** [https://attack.mitre.org/resources/](https://attack.mitre.org/resources/)
+*   **ICDFA Support Portal:** [https://icdfa.edu.ng](https://icdfa.edu.ng)
+
+## Submission Instructions
+
+Once you have completed each lab, you must submit your documentation for grading:
+
+1.  **Documentation:** Prepare a comprehensive PDF or Word document detailing the steps you took.
+2.  **Screenshots:** Include clear screenshots of key milestones (e.g., successful installations, network pings, SIEM dashboards).
+3.  **Submission:** Upload the full documentation package to the student portal at [https://icdfa.edu.ng](https://icdfa.edu.ng) for grading.
+
 ## License
 
 Prepared by:
